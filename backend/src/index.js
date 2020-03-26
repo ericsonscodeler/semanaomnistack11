@@ -5,7 +5,7 @@ const app = express();
 
 
 app.use(express.json());
-app.listen(cors());
+app.use(cors());
 app.use(routes);
 
 
