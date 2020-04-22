@@ -1,14 +1,22 @@
 {
-  "name": "backend",
+  "name": "semanaomnistack11",
   "version": "1.0.0",
-  "description": "",
+  "description": "Semana Omnistack 11 - Projeto - Be The Hero - Rocketseat",
   "main": "index.js",
   "scripts": {
     "start": "nodemon src/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/endersonlg/semanaomnistack11.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/endersonlg/semanaomnistack11/issues"
+  },
+  "homepage": "https://github.com/endersonlg/semanaomnistack11#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",

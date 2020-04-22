@@ -1,6 +1,2 @@
 # semanaomnistack11
-semanaomnistack11
-
-Aplicação utilizando Node, React e React Native
-
-
+Semana Omnistack 11 - Projeto - Be The Hero - Rocketseat
